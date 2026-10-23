@@ -1,0 +1,30 @@
+:root{
+    --color-primary:#;
+    --color-secondary:#;
+    --color-box:#;
+    --color-background:#d1d1d1;
+    
+    --spacing-xSmall:12px;
+    --spacing-small:24px;
+    --spacing-medium:40px;
+    --spacing-large:64px;
+    --spacing-xl:86px;
+    --spacing-xxl:90px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.email{}
+
+.box{
+    padding:var(--spacing-xxl);
+    background: var(--color-background);
+    border: 1px solid black;
+}
+
+.columns{
+    
+}
